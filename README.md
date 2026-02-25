@@ -1,3 +1,5 @@
+Note: This repository has been moved to [Codeberg](https://codeberg.org/frica/blink1-github-pr-notify).
+
 # GitHub PR blink(1) Notifier
 
 Flash your blink(1) device whenever someone comments on or approves your GitHub pull requests.
